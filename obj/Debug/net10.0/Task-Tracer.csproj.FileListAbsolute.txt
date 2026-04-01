@@ -1,0 +1,15 @@
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\bin\Debug\net10.0\Task-Tracer.exe
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\bin\Debug\net10.0\Task-Tracer.deps.json
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\bin\Debug\net10.0\Task-Tracer.runtimeconfig.json
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\bin\Debug\net10.0\Task-Tracer.dll
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\bin\Debug\net10.0\Task-Tracer.pdb
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\obj\Debug\net10.0\Task-Tracer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\obj\Debug\net10.0\Task-Tracer.AssemblyInfoInputs.cache
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\obj\Debug\net10.0\Task-Tracer.AssemblyInfo.cs
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\obj\Debug\net10.0\Task-Tracer.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\obj\Debug\net10.0\Task-Tracer.sourcelink.json
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\obj\Debug\net10.0\Task-Tracer.dll
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\obj\Debug\net10.0\refint\Task-Tracer.dll
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\obj\Debug\net10.0\Task-Tracer.pdb
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\obj\Debug\net10.0\Task-Tracer.genruntimeconfig.cache
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\Task-Tracer\obj\Debug\net10.0\ref\Task-Tracer.dll
