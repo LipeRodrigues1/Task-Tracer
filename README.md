@@ -1,10 +1,16 @@
 # 🧩 Task Tracker CLI (C#)
 
-A simple Command Line Interface (CLI) application built with **C#** to manage and track tasks using a JSON file for storage.
+<p align="center">
+  <img src="assets/Menu.png" width="700">
+</p>
+
+<p align="center">
+  A simple Command Line Interface (CLI) application built with <b>C#</b> to manage and track tasks using JSON storage.
+</p>
 
 ---
 
-🇺🇸 [English](#-english) | 🇧🇷 [Português](#-português)
+🇺🇸 English | 🇧🇷 Português
 
 ---
 
@@ -55,6 +61,9 @@ This project was created to practice:
 ```
 Task-Tracker/
 │
+├── assets/
+│   └── screenshot.png
+│
 ├── Models/
 │   ├── TaskItem.cs
 │   └── TaskStatus.cs
@@ -71,19 +80,19 @@ Task-Tracker/
 
 ## ⚙️ How to Run
 
-### Clone the repository
+### Clone repository
 
 ```
 git clone https://github.com/your-username/task-tracker.git
 ```
 
-### Enter the folder
+### Enter folder
 
 ```
 cd task-tracker
 ```
 
-### Run the project
+### Run project
 
 ```
 dotnet run
@@ -111,7 +120,7 @@ dotnet run list
 dotnet run update 1 Done
 ```
 
-Available status:
+Status:
 
 ```
 Todo
@@ -125,13 +134,13 @@ Done
 dotnet run mark-in-progress 1
 ```
 
-### Mark as done
+### Mark done
 
 ```
 dotnet run mark-done 1
 ```
 
-### Delete task
+### Delete
 
 ```
 dotnet run delete 1
@@ -169,12 +178,12 @@ Example:
 
 ## 📈 Future Improvements
 
-* Unit Tests
+* Unit tests
 * Logging
 * Task creation date
 * Task update date
-* Colored console output
-* Packaging as executable
+* Colored console
+* Build executable
 * Command aliases
 
 ---
@@ -182,7 +191,6 @@ Example:
 ## 👨‍💻 Author
 
 **Fellipe Augusto**
-
 C# Developer in training 🚀
 
 ---
@@ -196,7 +204,7 @@ Task Tracker CLI é uma aplicação de linha de comando desenvolvida em **C#** q
 Este projeto foi criado para praticar:
 
 * Fundamentos de C#
-* Desenvolvimento de CLI
+* Desenvolvimento CLI
 * Manipulação de JSON
 * Leitura e escrita de arquivos
 * Organização de código
@@ -209,7 +217,7 @@ Este projeto foi criado para praticar:
 * Adicionar tarefas
 * Listar tarefas
 * Atualizar status
-* Marcar como em progresso
+* Marcar em progresso
 * Marcar como concluída
 * Deletar tarefas
 * Comando de ajuda
@@ -229,20 +237,18 @@ Este projeto foi criado para praticar:
 
 ---
 
-## 📁 Estrutura do Projeto
+## 📁 Estrutura
 
 ```
 Task-Tracker/
 │
+├── assets/
+│   └── screenshot.png
+│
 ├── Models/
-│   ├── TaskItem.cs
-│   └── TaskStatus.cs
-│
 ├── Services/
-│   └── TaskService.cs
-│
-├── tasks.json
 ├── Program.cs
+├── tasks.json
 └── README.md
 ```
 
@@ -250,19 +256,19 @@ Task-Tracker/
 
 ## ⚙️ Como Executar
 
-### Clonar o repositório
+### Clonar
 
 ```
 git clone https://github.com/seu-usuario/task-tracker.git
 ```
 
-### Entrar na pasta
+### Entrar
 
 ```
 cd task-tracker
 ```
 
-### Rodar o projeto
+### Rodar
 
 ```
 dotnet run
@@ -272,76 +278,14 @@ dotnet run
 
 ## 📌 Comandos
 
-### Adicionar tarefa
-
 ```
 dotnet run add "Estudar C#"
-```
-
-### Listar tarefas
-
-```
 dotnet run list
-```
-
-### Atualizar tarefa
-
-```
 dotnet run update 1 Done
-```
-
-Status disponíveis:
-
-```
-Todo
-InProgress
-Done
-```
-
-### Marcar em progresso
-
-```
 dotnet run mark-in-progress 1
-```
-
-### Marcar como concluída
-
-```
 dotnet run mark-done 1
-```
-
-### Deletar tarefa
-
-```
 dotnet run delete 1
-```
-
-### Ajuda
-
-```
 dotnet run help
-```
-
----
-
-## 💾 Armazenamento
-
-As tarefas são armazenadas em:
-
-```
-tasks.json
-```
-
-Exemplo:
-
-```json
-[
-  {
-    "Id": 1,
-    "Title": "Estudar C#",
-    "Status": "Todo"
-  }
-]
 ```
 
 ---
@@ -350,16 +294,15 @@ Exemplo:
 
 * Testes unitários
 * Logs
-* Data de criação da tarefa
+* Data de criação
 * Data de atualização
 * Cores no console
-* Gerar executável
-* Atalhos de comandos
+* Executável
+* Atalhos de comando
 
 ---
 
 ## 👨‍💻 Autor
 
 **Fellipe Augusto**
-
 Desenvolvedor C# em formação 🚀
