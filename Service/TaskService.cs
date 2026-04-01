@@ -70,4 +70,23 @@ public class TaskService
         SaveTasks(tasks);
         System.Console.WriteLine("Task deleted successfully");
     }
+
+    public void UpdateTask(int id, TaskStatus taskStatus)
+    {
+        var tasks = GetAllTasks();
+        var task = tasks.FirstOrDefault(t => t.Id == id);
+
+        if (task == null)
+        {
+            System.Console.WriteLine("Task not found");
+            return;
+        }
+
+        task.Status = taskStatus;
+        SaveTasks(tasks);
+        System.Console.WriteLine("Task status updated successfully");
+
+    }
+
+    
 }
