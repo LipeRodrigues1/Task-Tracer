@@ -4,7 +4,7 @@ var taskService = new TaskService();
 
 if (args.Length == 0)
 {
-    Console.WriteLine("No command provided");
+    ShowHelp();
     return;
 }
 
@@ -73,4 +73,17 @@ switch (command)
     default:
         Console.WriteLine("Unknown command");
         break;
+}
+static void ShowHelp()
+{
+    Console.WriteLine("Task Tracker CLI");
+    Console.WriteLine("-------------------------");
+    Console.WriteLine("Commands:");
+    Console.WriteLine("add \"task title\"");
+    Console.WriteLine("list");
+    Console.WriteLine("update <id> <Todo|InProgress|Done>");
+    Console.WriteLine("mark-in-progress <id>");
+    Console.WriteLine("mark-done <id>");
+    Console.WriteLine("delete <id>");
+    Console.WriteLine("help");
 }
