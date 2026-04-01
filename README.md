@@ -4,6 +4,7 @@
 <p align="center">
   <img src="./assets/Menu.png" width="700"/>
 </p>
+
 ---
 
 🇺🇸 English | 🇧🇷 Português
@@ -58,7 +59,7 @@ This project was created to practice:
 Task-Tracker/
 │
 ├── assets/
-│   └── screenshot.png
+│   └── Menu.png
 │
 ├── Models/
 │   ├── TaskItem.cs
@@ -239,7 +240,7 @@ Este projeto foi criado para praticar:
 Task-Tracker/
 │
 ├── assets/
-│   └── screenshot.png
+│   └── Menu.png
 │
 ├── Models/
 ├── Services/
