@@ -1,13 +1,9 @@
 # 🧩 Task Tracker CLI (C#)
 
+## 📷 Preview
 <p align="center">
-  <img src="assets/Menu.png" width="700">
+  <img src="./assets/Menu.png" width="700"/>
 </p>
-
-<p align="center">
-  A simple Command Line Interface (CLI) application built with <b>C#</b> to manage and track tasks using JSON storage.
-</p>
-
 ---
 
 🇺🇸 English | 🇧🇷 Português
