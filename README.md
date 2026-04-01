@@ -1,11 +1,11 @@
 # 🧩 Task Tracker CLI (C#)
 
-## 📷 Preview
+## 📷 
+
 <p align="center">
-  <img src="./assets/Menu.png" width="700"/>
+  <img src="./Assets/Menu.png" width="700"/>
 </p>
 
----
 
 🇺🇸 English | 🇧🇷 Português
 
@@ -58,7 +58,7 @@ This project was created to practice:
 ```
 Task-Tracker/
 │
-├── assets/
+├── Assets/
 │   └── Menu.png
 │
 ├── Models/
@@ -239,7 +239,7 @@ Este projeto foi criado para praticar:
 ```
 Task-Tracker/
 │
-├── assets/
+├── Assets/
 │   └── Menu.png
 │
 ├── Models/
