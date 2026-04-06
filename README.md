@@ -1,5 +1,9 @@
 # 🧩 Task Tracker CLI (C#)
-
+![C#](https://img.shields.io/badge/C%23-.NET-blue)
+![.NET](https://img.shields.io/badge/.NET-Console_App-purple)
+![CLI](https://img.shields.io/badge/Type-CLI-green)
+![JSON](https://img.shields.io/badge/Data-JSON-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 ## 📷 
 
 <p align="center">
